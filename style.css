@@ -4,9 +4,10 @@
     box-sizing: border-box;
 }
 #button{
-    padding: 8px;
+    padding: 4px;
     font-size: 20px;
 }
 #lista{
+    padding: 4px;
     font-size: 20px;
 }
